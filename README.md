@@ -1,1 +1,0 @@
-# Auto3.1Docker
